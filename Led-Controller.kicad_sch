@@ -10202,7 +10202,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Taiyo-Yuden_MD-5050"
+		(property "Footprint" "Inductor_SMD:L_Changjiang_FNR8040S"
 			(at 180.34 118.11 0)
 			(effects
 				(font
@@ -12534,7 +12534,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Taiyo-Yuden_MD-5050"
+		(property "Footprint" "Inductor_SMD:L_Changjiang_FNR8040S"
 			(at 180.34 184.15 0)
 			(effects
 				(font
