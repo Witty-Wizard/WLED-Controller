@@ -1,6 +1,6 @@
 # Led-Controller  
 
-Made first level of final design with proper layout without warnings  
+Review complete , BOM generated , will send for FAB and BOM procurement  
 
 ![](files/top.png)   
 ![](files/bottom.png)   

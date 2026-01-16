@@ -505,10 +505,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../../../gerber/",
+      "plot": "top.svg",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": ".step",
       "svg": "",
       "vrml": ""
     },
