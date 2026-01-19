@@ -5114,7 +5114,7 @@
 		)
 		(uuid "89f1b61c-2c5d-46cc-9516-d7c328f0dfcf")
 	)
-	(text "VDD Min : 4V (if using WS2812)\nVDD Min : 9V (if using RGBWWW)\nVDD Max : 30V"
+	(text "VDD Min : 5V (if using WS2812)\nVDD Min : 9V (if using RGBWWW)\nVDD Max : 30V"
 		(exclude_from_sim no)
 		(at 168.656 60.452 0)
 		(effects
@@ -7093,7 +7093,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Low-Side Gate Driver IC Non-Inverting PG-SOT23-6-3"
 			(at 299.72 82.55 0)
 			(effects
 				(font
@@ -7102,27 +7102,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Infineon Technologies"
-			(at 299.72 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.45mm"
-			(at 299.72 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "SOT-23-6 Infineon Technologies"
+		(property "Package" "SOT-23-6"
 			(at 299.72 82.55 0)
 			(effects
 				(font
@@ -7142,76 +7122,6 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/1ED44175N01BXTSA1/Infineon+Technologies/view-part/?ref=eda"
-			(at 299.72 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC-7351B"
-			(at 299.72 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "1.0"
-			(at 299.72 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1ED44175N01BXTSA1/Infineon+Technologies/view-part/?ref=snap"
-			(at 299.72 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "1ED44175N01BXTSA1"
-			(at 299.72 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4572068&manufacturer=Infineon Technologies&part_name=1ED44175N01BXTSA1&search_term=None"
-			(at 299.72 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nLow-Side Gate Driver IC Non-Inverting PG-SOT23-6-3\n"
-			(at 299.72 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
 		(property "Availability" "In Stock"
 			(at 299.72 82.55 0)
 			(effects
@@ -7222,13 +7132,21 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Infineon"
+		(property "Manufacturer" "Infineon Technologies"
 			(at 299.72 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Part No" "1ED44175N01BXTSA1"
+			(at 299.72 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -7304,7 +7222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Low-Side Gate Driver IC Non-Inverting PG-SOT23-6-3"
 			(at 229.87 115.57 0)
 			(effects
 				(font
@@ -7313,27 +7231,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Infineon Technologies"
-			(at 229.87 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.45mm"
-			(at 229.87 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "SOT-23-6 Infineon Technologies"
+		(property "Package" "SOT-23-6"
 			(at 229.87 115.57 0)
 			(effects
 				(font
@@ -7353,76 +7251,6 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/1ED44175N01BXTSA1/Infineon+Technologies/view-part/?ref=eda"
-			(at 229.87 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC-7351B"
-			(at 229.87 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "1.0"
-			(at 229.87 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1ED44175N01BXTSA1/Infineon+Technologies/view-part/?ref=snap"
-			(at 229.87 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "1ED44175N01BXTSA1"
-			(at 229.87 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4572068&manufacturer=Infineon Technologies&part_name=1ED44175N01BXTSA1&search_term=None"
-			(at 229.87 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nLow-Side Gate Driver IC Non-Inverting PG-SOT23-6-3\n"
-			(at 229.87 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
 		(property "Availability" "In Stock"
 			(at 229.87 115.57 0)
 			(effects
@@ -7433,13 +7261,21 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Infineon"
+		(property "Manufacturer" "Infineon Technologies"
 			(at 229.87 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Part No" "1ED44175N01BXTSA1"
+			(at 229.87 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -7515,7 +7351,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Low-Side Gate Driver IC Non-Inverting PG-SOT23-6-3"
 			(at 229.87 81.28 0)
 			(effects
 				(font
@@ -7524,27 +7360,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Infineon Technologies"
-			(at 229.87 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.45mm"
-			(at 229.87 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "SOT-23-6 Infineon Technologies"
+		(property "Package" "SOT-23-6"
 			(at 229.87 81.28 0)
 			(effects
 				(font
@@ -7564,76 +7380,6 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/1ED44175N01BXTSA1/Infineon+Technologies/view-part/?ref=eda"
-			(at 229.87 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC-7351B"
-			(at 229.87 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "1.0"
-			(at 229.87 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1ED44175N01BXTSA1/Infineon+Technologies/view-part/?ref=snap"
-			(at 229.87 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "1ED44175N01BXTSA1"
-			(at 229.87 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4572068&manufacturer=Infineon Technologies&part_name=1ED44175N01BXTSA1&search_term=None"
-			(at 229.87 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nLow-Side Gate Driver IC Non-Inverting PG-SOT23-6-3\n"
-			(at 229.87 81.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
 		(property "Availability" "In Stock"
 			(at 229.87 81.28 0)
 			(effects
@@ -7644,13 +7390,21 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Infineon"
+		(property "Manufacturer" "Infineon Technologies"
 			(at 229.87 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Part No" "1ED44175N01BXTSA1"
+			(at 229.87 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -7727,7 +7481,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22 µF ±20% 16V Ceramic Capacitor X5R 0805 (2012 Metric)"
 			(at 279.4 175.26 0)
 			(effects
 				(font
@@ -7737,6 +7491,24 @@
 			)
 		)
 		(property "Package" "805"
+			(at 279.4 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 279.4 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM21BR61C226ME44L"
 			(at 279.4 175.26 0)
 			(effects
 				(font
@@ -7909,7 +7681,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33p"
+		(property "Value" "33pf"
 			(at 157.988 188.468 0)
 			(effects
 				(font
@@ -7936,7 +7708,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "33 pF ±5% 100V Ceramic Capacitor C0G, NP0 0603 (1608 Metric)"
+			(at 157.48 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 157.48 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 157.48 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GCM1885C2A330JA16D"
 			(at 157.48 190.5 0)
 			(effects
 				(font
@@ -8043,7 +7842,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uf"
 			(at 162.56 175.514 90)
 			(effects
 				(font
@@ -8070,8 +7869,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 160.02 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 160.02 177.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 160.02 177.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GCJ188R71C104MA01J"
+			(at 160.02 177.8 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8213,7 +8039,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 351.79 173.99 0)
 			(effects
 				(font
@@ -8222,7 +8048,16 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Manufacturer" ""
+			(at 351.79 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 351.79 173.99 0)
 			(effects
 				(font
@@ -8496,7 +8331,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 374.65 173.99 0)
 			(effects
 				(font
@@ -8505,7 +8340,16 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Manufacturer" ""
+			(at 374.65 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 374.65 173.99 0)
 			(effects
 				(font
@@ -8649,7 +8493,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 212.09 149.86 0)
 			(effects
 				(font
@@ -8658,7 +8502,16 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Manufacturer" ""
+			(at 212.09 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 212.09 149.86 0)
 			(effects
 				(font
@@ -8766,7 +8619,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 400.05 182.8862 0)
 			(effects
 				(font
@@ -8793,7 +8646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 397.51 181.61 0)
 			(effects
 				(font
@@ -8803,6 +8656,24 @@
 			)
 		)
 		(property "Package" "402"
+			(at 397.51 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 397.51 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM155R61C104KA88D"
 			(at 397.51 181.61 0)
 			(effects
 				(font
@@ -9076,6 +8947,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 99.06 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 99.06 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "6be5fc30-f4fd-4b37-816e-369b30d0cf31")
 		)
@@ -9113,7 +9002,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 283.21 124.4662 0)
 			(effects
 				(font
@@ -9140,7 +9029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 280.67 123.19 0)
 			(effects
 				(font
@@ -9150,6 +9039,24 @@
 			)
 		)
 		(property "Package" "402"
+			(at 280.67 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 280.67 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM155R61C104KA88D"
 			(at 280.67 123.19 0)
 			(effects
 				(font
@@ -9192,7 +9099,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 213.36 124.4662 0)
 			(effects
 				(font
@@ -9219,7 +9126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 210.82 123.19 0)
 			(effects
 				(font
@@ -9229,6 +9136,24 @@
 			)
 		)
 		(property "Package" "402"
+			(at 210.82 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 210.82 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM155R61C104KA88D"
 			(at 210.82 123.19 0)
 			(effects
 				(font
@@ -9306,7 +9231,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 280.67 85.09 0)
 			(effects
 				(font
@@ -9315,7 +9240,16 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Manufacturer" ""
+			(at 280.67 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 280.67 85.09 0)
 			(effects
 				(font
@@ -9358,7 +9292,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 213.36 176.5362 0)
 			(effects
 				(font
@@ -9367,7 +9301,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 210.82 175.26 0)
 			(effects
 				(font
@@ -9385,7 +9319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 210.82 175.26 0)
 			(effects
 				(font
@@ -9394,7 +9328,25 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "805"
+			(at 210.82 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 210.82 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GCM21BR71E104KA37L"
 			(at 210.82 175.26 0)
 			(effects
 				(font
@@ -9472,6 +9424,33 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 160.02 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 160.02 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 160.02 200.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "28c443c4-782b-4678-994a-1fe7c787e81c")
 		)
@@ -9506,7 +9485,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 354.33 182.8862 0)
 			(effects
 				(font
@@ -9533,7 +9512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 351.79 181.61 0)
 			(effects
 				(font
@@ -9543,6 +9522,24 @@
 			)
 		)
 		(property "Package" "402"
+			(at 351.79 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 351.79 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM155R61C104KA88D"
 			(at 351.79 181.61 0)
 			(effects
 				(font
@@ -9618,7 +9615,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 245.11 113.03 0)
 			(effects
 				(font
@@ -9627,8 +9624,17 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
-			(at 245.11 113.03 0)
+		(property "Manufacturer" ""
+			(at 245.11 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 245.11 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9769,6 +9775,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 299.72 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 299.72 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "3c5e7713-c3d3-4d4c-9e12-2a7b1207c37a")
 		)
@@ -9791,72 +9815,6 @@
 			(project ""
 				(path "/222b9972-7c70-4368-986f-3bb219717620"
 					(reference "J3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+9V")
-		(at 360.68 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2f3ed2ed-5fde-4b71-a19b-b09d19ff301e")
-		(property "Reference" "#PWR091"
-			(at 360.68 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 360.68 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 360.68 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 360.68 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+9V\""
-			(at 360.68 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e10ef452-84bb-42d8-88ec-3c8e2618b4cf")
-		)
-		(instances
-			(project "Led-Controller"
-				(path "/222b9972-7c70-4368-986f-3bb219717620"
-					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -10076,7 +10034,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33u"
+		(property "Value" "22uf"
 			(at 172.212 187.198 0)
 			(effects
 				(font
@@ -10103,7 +10061,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22 µF ±20% 16V Ceramic Capacitor X5S 0603 (1608 Metric)"
+			(at 170.18 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 170.18 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 170.18 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM188C61C226ME01W"
 			(at 170.18 186.69 0)
 			(effects
 				(font
@@ -10145,7 +10130,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33u"
+		(property "Value" "22uf"
 			(at 90.17 116.8462 0)
 			(effects
 				(font
@@ -10172,7 +10157,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22 µF ±20% 16V Ceramic Capacitor X5S 0603 (1608 Metric)"
+			(at 87.63 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 87.63 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 87.63 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM188C61C226ME01W"
 			(at 87.63 115.57 0)
 			(effects
 				(font
@@ -10306,6 +10318,24 @@
 			)
 		)
 		(property "Description" "Jumper, 3-pole, both open"
+			(at 184.15 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 184.15 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 184.15 115.57 0)
 			(effects
 				(font
@@ -10452,7 +10482,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 386.08 173.99 0)
 			(effects
 				(font
@@ -10461,7 +10491,16 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Manufacturer" ""
+			(at 386.08 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 386.08 173.99 0)
 			(effects
 				(font
@@ -10531,6 +10570,24 @@
 			)
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 83.82 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 83.82 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 83.82 74.93 0)
 			(effects
 				(font
@@ -10674,6 +10731,33 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 156.21 196.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 156.21 196.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 156.21 196.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f6048603-0f58-42ef-aeff-d648d589aea8")
 		)
@@ -10759,9 +10843,9 @@
 		(at 386.08 102.87 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "3f0f137c-c628-4250-ae67-7c7943295c30")
 		(property "Reference" "J5"
 			(at 384.556 107.442 90)
@@ -10801,6 +10885,24 @@
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 386.08 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 386.08 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 386.08 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10872,7 +10974,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "10 µF ±20% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 236.22 231.14 0)
 			(effects
 				(font
@@ -10882,6 +10984,24 @@
 			)
 		)
 		(property "Package" "402"
+			(at 236.22 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 236.22 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM155R60J106ME05J"
 			(at 236.22 231.14 0)
 			(effects
 				(font
@@ -10959,7 +11079,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 280.67 118.11 0)
 			(effects
 				(font
@@ -10968,7 +11088,16 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Manufacturer" ""
+			(at 280.67 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 280.67 118.11 0)
 			(effects
 				(font
@@ -11039,7 +11168,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100A Id, 60V Vds, NexFET N-Channel Power MOSFET, 2.2mOhm Ron, 41nC Qg(typ), SON8 5x6mm"
+		(property "Description" "N-Channel 60 V 100A (Ta) 3.1W (Ta), 195W (Tc) Surface Mount 8-VSON-CLIP (5x6)"
 			(at 148.59 76.2 0)
 			(effects
 				(font
@@ -11048,8 +11177,26 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "TDSON 8"
+		(property "Package" "8-VSON-CLIP (5x6)"
 			(at 148.59 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 148.59 76.2 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "CSD18540Q5B"
+			(at 148.59 76.2 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11100,7 +11247,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "ZMM7v5"
+		(property "Value" "ZMM7V5"
 			(at 156.21 76.1999 90)
 			(effects
 				(font
@@ -11127,8 +11274,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Zener diode, small symbol"
+		(property "Description" "Zener Diode 7.5 V 500 mW ±6% Surface Mount LL-34"
 			(at 153.67 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Shenzhen Slkormicro Semicon Co., Ltd."
+			(at 153.67 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "DO-213AC"
+			(at 153.67 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "ZMM7V5"
+			(at 153.67 74.93 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11205,6 +11379,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 125.73 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 125.73 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4c7ad11-6ce8-4edd-9341-a8fb529d7929")
 		)
@@ -11239,7 +11431,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 254.254 237.49 0)
 			(effects
 				(font
@@ -11266,7 +11458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 247.65 237.49 0)
 			(effects
 				(font
@@ -11276,6 +11468,24 @@
 			)
 		)
 		(property "Package" "402"
+			(at 247.65 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 247.65 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM155R61C104KA88D"
 			(at 247.65 237.49 0)
 			(effects
 				(font
@@ -11294,71 +11504,6 @@
 			(project "Led-Controller"
 				(path "/222b9972-7c70-4368-986f-3bb219717620"
 					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 360.68 105.41 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4536fd8f-2dc1-4d3b-bb5d-ae120d51b766")
-		(property "Reference" "#PWR092"
-			(at 360.68 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 360.68 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 360.68 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 360.68 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 360.68 105.41 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7f2a7c48-1789-4670-8028-4bfcfd039f19")
-		)
-		(instances
-			(project "Led-Controller"
-				(path "/222b9972-7c70-4368-986f-3bb219717620"
-					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -11410,7 +11555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22 µF ±20% 16V Ceramic Capacitor X5R 0805 (2012 Metric)"
 			(at 320.04 175.26 0)
 			(effects
 				(font
@@ -11420,6 +11565,24 @@
 			)
 		)
 		(property "Package" "805"
+			(at 320.04 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 320.04 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM21BR61C226ME44L"
 			(at 320.04 175.26 0)
 			(effects
 				(font
@@ -11630,7 +11793,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 247.65 232.41 0)
 			(effects
 				(font
@@ -11639,7 +11802,16 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Manufacturer" ""
+			(at 247.65 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 247.65 232.41 0)
 			(effects
 				(font
@@ -11908,7 +12080,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100A Id, 60V Vds, NexFET N-Channel Power MOSFET, 2.2mOhm Ron, 41nC Qg(typ), SON8 5x6mm"
+		(property "Description" "N-Channel 60 V 100A (Ta) 3.1W (Ta), 195W (Tc) Surface Mount 8-VSON-CLIP (5x6)"
 			(at 252.73 113.03 0)
 			(effects
 				(font
@@ -11917,7 +12089,25 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "TDSON 8"
+		(property "Package" "8-VSON-CLIP (5x6)"
+			(at 252.73 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 252.73 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "CSD18540Q5B"
 			(at 252.73 113.03 0)
 			(effects
 				(font
@@ -12070,7 +12260,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 148.59 68.58 0)
 			(effects
 				(font
@@ -12079,7 +12269,16 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Manufacturer" ""
+			(at 148.59 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 148.59 68.58 0)
 			(effects
 				(font
@@ -12155,7 +12354,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 314.96 80.01 0)
 			(effects
 				(font
@@ -12164,8 +12363,17 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
-			(at 314.96 80.01 0)
+		(property "Manufacturer" ""
+			(at 314.96 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 314.96 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12309,6 +12517,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 375.92 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 375.92 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/222b9972-7c70-4368-986f-3bb219717620"
@@ -12367,7 +12593,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100A Id, 60V Vds, NexFET N-Channel Power MOSFET, 2.2mOhm Ron, 41nC Qg(typ), SON8 5x6mm"
+		(property "Description" "N-Channel 60 V 100A (Ta) 3.1W (Ta), 195W (Tc) Surface Mount 8-VSON-CLIP (5x6)"
 			(at 322.58 80.01 0)
 			(effects
 				(font
@@ -12376,7 +12602,25 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "TDSON 8"
+		(property "Package" "8-VSON-CLIP (5x6)"
+			(at 322.58 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 322.58 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "CSD18540Q5B"
 			(at 322.58 80.01 0)
 			(effects
 				(font
@@ -12529,7 +12773,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 363.22 173.99 0)
 			(effects
 				(font
@@ -12538,7 +12782,16 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Manufacturer" ""
+			(at 363.22 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 363.22 173.99 0)
 			(effects
 				(font
@@ -12877,7 +13130,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 314.96 113.03 0)
 			(effects
 				(font
@@ -12886,8 +13139,17 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
-			(at 314.96 113.03 0)
+		(property "Manufacturer" ""
+			(at 314.96 113.03 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 314.96 113.03 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13178,7 +13440,7 @@
 		(at 306.07 196.85 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "63d93389-2c6e-41fe-b61a-739bc2a2ad0c")
@@ -13219,6 +13481,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 306.07 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 306.07 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 306.07 196.85 0)
 			(effects
 				(font
@@ -13488,6 +13768,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 171.45 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 171.45 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1170d916-fc0c-4745-a189-884321b091ea")
 		)
@@ -13517,7 +13815,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uH"
 			(at 156.21 116.586 90)
 			(effects
 				(font
@@ -13545,6 +13843,24 @@
 		)
 		(property "Description" "Inductor, small symbol"
 			(at 156.21 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 156.21 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 156.21 118.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13586,7 +13902,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 236.22 176.5362 0)
 			(effects
 				(font
@@ -13595,7 +13911,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 233.68 175.26 0)
 			(effects
 				(font
@@ -13613,7 +13929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 233.68 175.26 0)
 			(effects
 				(font
@@ -13622,7 +13938,25 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "805"
+			(at 233.68 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 233.68 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GCM21BR71E104KA37L"
 			(at 233.68 175.26 0)
 			(effects
 				(font
@@ -13731,7 +14065,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 388.62 182.8862 0)
 			(effects
 				(font
@@ -13758,7 +14092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 386.08 181.61 0)
 			(effects
 				(font
@@ -13768,6 +14102,24 @@
 			)
 		)
 		(property "Package" "402"
+			(at 386.08 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 386.08 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM155R61C104KA88D"
 			(at 386.08 181.61 0)
 			(effects
 				(font
@@ -14295,7 +14647,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-VDFN"
+			(at 111.76 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Monolithic Power Systems Inc."
+			(at 111.76 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "8-QFN (3x3)"
+			(at 111.76 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "MP9943AGQ-P"
 			(at 111.76 177.8 0)
 			(effects
 				(font
@@ -14342,7 +14721,7 @@
 		(at 283.21 195.58 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "7c031974-6aa4-4461-91b1-d11fe581f05a")
@@ -14383,6 +14762,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 283.21 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 283.21 195.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 283.21 195.58 0)
 			(effects
 				(font
@@ -14448,6 +14845,33 @@
 		)
 		(property "Description" "Ferrite bead, small symbol"
 			(at 85.09 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 85.09 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 85.09 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 85.09 111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14581,7 +15005,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22 µF ±20% 16V Ceramic Capacitor X5R 0805 (2012 Metric)"
 			(at 309.88 175.26 0)
 			(effects
 				(font
@@ -14591,6 +15015,24 @@
 			)
 		)
 		(property "Package" "805"
+			(at 309.88 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 309.88 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM21BR61C226ME44L"
 			(at 309.88 175.26 0)
 			(effects
 				(font
@@ -14632,7 +15074,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33u"
+		(property "Value" "22uf"
 			(at 189.992 189.738 0)
 			(effects
 				(font
@@ -14659,7 +15101,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22 µF ±20% 16V Ceramic Capacitor X5S 0603 (1608 Metric)"
+			(at 187.96 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 187.96 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 187.96 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM188C61C226ME01W"
 			(at 187.96 189.23 0)
 			(effects
 				(font
@@ -14802,6 +15271,33 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 176.53 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 176.53 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 176.53 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f53b31d9-59d6-40db-b914-850f03ec2a88")
 		)
@@ -14835,7 +15331,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33u"
+		(property "Value" "22uf"
 			(at 155.194 120.904 0)
 			(effects
 				(font
@@ -14862,7 +15358,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22 µF ±20% 16V Ceramic Capacitor X5S 0603 (1608 Metric)"
+			(at 160.02 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 160.02 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 160.02 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM188C61C226ME01W"
 			(at 160.02 120.65 0)
 			(effects
 				(font
@@ -14940,7 +15463,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 397.51 173.99 0)
 			(effects
 				(font
@@ -14949,7 +15472,16 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Manufacturer" ""
+			(at 397.51 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 397.51 173.99 0)
 			(effects
 				(font
@@ -15022,7 +15554,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100A Id, 60V Vds, NexFET N-Channel Power MOSFET, 2.2mOhm Ron, 41nC Qg(typ), SON8 5x6mm"
+		(property "Description" "N-Channel 60 V 100A (Ta) 3.1W (Ta), 195W (Tc) Surface Mount 8-VSON-CLIP (5x6)"
 			(at 252.73 78.74 0)
 			(effects
 				(font
@@ -15031,7 +15563,25 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "TDSON 8"
+		(property "Package" "8-VSON-CLIP (5x6)"
+			(at 252.73 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 252.73 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "CSD18540Q5B"
 			(at 252.73 78.74 0)
 			(effects
 				(font
@@ -15148,7 +15698,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 224.79 176.5362 0)
 			(effects
 				(font
@@ -15157,7 +15707,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 222.25 175.26 0)
 			(effects
 				(font
@@ -15175,7 +15725,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 222.25 175.26 0)
 			(effects
 				(font
@@ -15184,7 +15734,25 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "805"
+			(at 222.25 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 222.25 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GCM21BR71E104KA37L"
 			(at 222.25 175.26 0)
 			(effects
 				(font
@@ -15254,6 +15822,24 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
+			(at 119.38 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 119.38 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 119.38 74.93 0)
 			(effects
 				(font
@@ -15413,7 +15999,7 @@
 		(at 300.99 196.85 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "8ba994ab-2343-4123-9e55-0bcf0950622f")
@@ -15462,6 +16048,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 300.99 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 300.99 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bcd2bba0-c8ef-410e-b7e7-6860ca053c90")
 		)
@@ -15492,7 +16096,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uf"
 			(at 105.918 199.898 0)
 			(effects
 				(font
@@ -15519,7 +16123,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
+			(at 104.14 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 104.14 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 104.14 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GCJ188R71C104MA01J"
 			(at 104.14 199.39 0)
 			(effects
 				(font
@@ -15728,6 +16359,33 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 162.56 190.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 162.56 190.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 162.56 190.5 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3d066f69-81bb-45a9-99f6-9d428d7d3f3b")
 		)
@@ -15797,6 +16455,33 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 96.52 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 96.52 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 96.52 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "68f1dbd2-d755-4259-8a5c-6b314a9b67c7")
 		)
@@ -15830,7 +16515,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uf"
 			(at 162.56 109.474 90)
 			(effects
 				(font
@@ -15857,8 +16542,35 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 160.02 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 160.02 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 160.02 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GCJ188R71C104MA01J"
+			(at 160.02 111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15992,6 +16704,24 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 223.52 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 223.52 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 223.52 214.63 0)
 			(effects
 				(font
@@ -16212,6 +16942,33 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 96.52 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 96.52 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 96.52 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6896c056-4e04-48b9-a2a2-b62006c36694")
 		)
@@ -16410,7 +17167,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 245.11 78.74 0)
 			(effects
 				(font
@@ -16419,8 +17176,17 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
-			(at 245.11 78.74 0)
+		(property "Manufacturer" ""
+			(at 245.11 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 245.11 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16462,7 +17228,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 213.36 90.1762 0)
 			(effects
 				(font
@@ -16489,7 +17255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 210.82 88.9 0)
 			(effects
 				(font
@@ -16499,6 +17265,24 @@
 			)
 		)
 		(property "Package" "402"
+			(at 210.82 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 210.82 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM155R61C104KA88D"
 			(at 210.82 88.9 0)
 			(effects
 				(font
@@ -16541,7 +17325,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 214.63 156.2162 0)
 			(effects
 				(font
@@ -16568,7 +17352,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 212.09 154.94 0)
 			(effects
 				(font
@@ -16578,6 +17362,24 @@
 			)
 		)
 		(property "Package" "402"
+			(at 212.09 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 212.09 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM155R61C104KA88D"
 			(at 212.09 154.94 0)
 			(effects
 				(font
@@ -16620,7 +17422,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 377.19 182.8862 0)
 			(effects
 				(font
@@ -16647,7 +17449,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 374.65 181.61 0)
 			(effects
 				(font
@@ -16657,6 +17459,24 @@
 			)
 		)
 		(property "Package" "402"
+			(at 374.65 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 374.65 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM155R61C104KA88D"
 			(at 374.65 181.61 0)
 			(effects
 				(font
@@ -16734,7 +17554,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 210.82 83.82 0)
 			(effects
 				(font
@@ -16743,7 +17563,16 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Manufacturer" ""
+			(at 210.82 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 210.82 83.82 0)
 			(effects
 				(font
@@ -16849,7 +17678,7 @@
 				)
 			)
 		)
-		(property "Value" "10u"
+		(property "Value" "10uH"
 			(at 166.37 182.626 90)
 			(effects
 				(font
@@ -16877,6 +17706,24 @@
 		)
 		(property "Description" "Inductor, small symbol"
 			(at 166.37 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 166.37 184.15 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 166.37 184.15 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17016,7 +17863,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 245.11 144.78 0)
 			(effects
 				(font
@@ -17025,8 +17872,17 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
-			(at 245.11 144.78 0)
+		(property "Manufacturer" ""
+			(at 245.11 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 245.11 144.78 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17168,6 +18024,33 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 100.33 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 100.33 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 100.33 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6c486ce2-0f20-4e8f-b539-6bb71ae64170")
 		)
@@ -17237,6 +18120,33 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 154.94 177.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 154.94 177.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 154.94 177.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1cdcdd9c-5144-4856-897a-fa2fcb967628")
 		)
@@ -17297,7 +18207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22 µF ±20% 16V Ceramic Capacitor X5R 0805 (2012 Metric)"
 			(at 111.76 73.66 0)
 			(effects
 				(font
@@ -17307,6 +18217,24 @@
 			)
 		)
 		(property "Package" "805"
+			(at 111.76 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 111.76 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM21BR61C226ME44L"
 			(at 111.76 73.66 0)
 			(effects
 				(font
@@ -17581,6 +18509,33 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 176.53 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 176.53 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 176.53 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a9d020fc-f86e-4616-8fa7-d78ef2162ed9")
 		)
@@ -17643,6 +18598,33 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 154.94 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 154.94 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 154.94 111.76 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 154.94 111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17907,6 +18889,24 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 356.87 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 356.87 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 356.87 205.74 0)
 			(effects
 				(font
@@ -18300,7 +19300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100A Id, 60V Vds, NexFET N-Channel Power MOSFET, 2.2mOhm Ron, 41nC Qg(typ), SON8 5x6mm"
+		(property "Description" "N-Channel 60 V 100A (Ta) 3.1W (Ta), 195W (Tc) Surface Mount 8-VSON-CLIP (5x6)"
 			(at 252.73 144.78 0)
 			(effects
 				(font
@@ -18309,7 +19309,25 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "TDSON 8"
+		(property "Package" "8-VSON-CLIP (5x6)"
+			(at 252.73 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 252.73 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "CSD18540Q5B"
 			(at 252.73 144.78 0)
 			(effects
 				(font
@@ -18426,7 +19444,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 283.21 91.4462 0)
 			(effects
 				(font
@@ -18453,7 +19471,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 280.67 90.17 0)
 			(effects
 				(font
@@ -18463,6 +19481,24 @@
 			)
 		)
 		(property "Package" "402"
+			(at 280.67 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 280.67 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM155R61C104KA88D"
 			(at 280.67 90.17 0)
 			(effects
 				(font
@@ -18491,9 +19527,9 @@
 		(at 375.92 80.01 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba40ab22-09f3-4d77-a5f5-f696683c7ba0")
 		(property "Reference" "U9"
@@ -18530,7 +19566,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Single Power Supply, Single Buffer GATE, CMOS Logic, Level Shifter, SOT-23-5"
+		(property "Description" "Buffer, Non-Inverting 1 Element 1 Bit per Element Push-Pull Output SOT-23-5"
+			(at 375.92 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Texas Instruments"
+			(at 375.92 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "SOT-23-5"
+			(at 375.92 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "SN74LV1T34DBVR"
 			(at 375.92 80.01 0)
 			(effects
 				(font
@@ -18694,85 +19757,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C_Small")
-		(at 360.68 102.87 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(dnp yes)
-		(fields_autoplaced yes)
-		(uuid "bd9c5756-28ee-46c3-91bd-64b280b3a0c8")
-		(property "Reference" "C31"
-			(at 363.22 101.6062 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "22uf"
-			(at 363.22 104.1462 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 360.68 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 360.68 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 360.68 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Package" "805"
-			(at 360.68 102.87 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ee1dbd02-9411-4e75-8b85-39d087a0b6a6")
-		)
-		(pin "1"
-			(uuid "67ba0a3b-727d-49ce-b299-30db666c9a01")
-		)
-		(instances
-			(project "Led-Controller"
-				(path "/222b9972-7c70-4368-986f-3bb219717620"
-					(reference "C31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+9V")
 		(at 255.27 172.72 0)
 		(unit 1)
@@ -18843,9 +19827,9 @@
 		(at 349.25 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1312ff4-49d2-4f1d-a84c-d08f54b0b472")
 		(property "Reference" "C30"
@@ -18857,7 +19841,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 351.79 104.1462 0)
 			(effects
 				(font
@@ -18866,7 +19850,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 349.25 102.87 0)
 			(effects
 				(font
@@ -18884,7 +19868,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 349.25 102.87 0)
 			(effects
 				(font
@@ -18893,7 +19877,25 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "805"
+			(at 349.25 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 349.25 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GCM21BR71E104KA37L"
 			(at 349.25 102.87 0)
 			(effects
 				(font
@@ -19053,9 +20055,9 @@
 		(at 400.05 102.87 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
+		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(uuid "c3d25336-9a0e-4405-bcbb-67b749ddd3b8")
 		(property "Reference" "J6"
 			(at 397.256 105.664 90)
@@ -19095,6 +20097,24 @@
 		)
 		(property "Description" "Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 400.05 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 400.05 102.87 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 400.05 102.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19171,6 +20191,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 172.72 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 172.72 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f4689e98-0b53-4d82-a6c2-3778af632cff")
 		)
@@ -19229,6 +20267,33 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 100.33 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 100.33 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 100.33 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 100.33 115.57 0)
 			(effects
 				(font
@@ -19429,7 +20494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22 µF ±20% 16V Ceramic Capacitor X5R 0805 (2012 Metric)"
 			(at 299.72 175.26 0)
 			(effects
 				(font
@@ -19439,6 +20504,24 @@
 			)
 		)
 		(property "Package" "805"
+			(at 299.72 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 299.72 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM21BR61C226ME44L"
 			(at 299.72 175.26 0)
 			(effects
 				(font
@@ -19639,7 +20722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RF Module, ESP32-D0WD-V3 SoC, without PSRAM, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD"
+		(property "Description" "Bluetooth, WiFi 802.11b/g/n, Bluetooth v4.2 +EDR, Class 1, 2 and 3 Transceiver Module 2.4GHz ~ 2.5GHz PCB Trace Surface Mount"
 			(at 288.29 215.9 0)
 			(effects
 				(font
@@ -19648,7 +20731,25 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Espresiff"
+		(property "Manufacturer" "Espressif Systems"
+			(at 288.29 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "38-SMD Module"
+			(at 288.29 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "ESP32-WROOM-32E-N8"
 			(at 288.29 215.9 0)
 			(effects
 				(font
@@ -19829,6 +20930,33 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 184.15 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 184.15 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 184.15 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 184.15 123.19 0)
 			(effects
 				(font
@@ -20035,6 +21163,33 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 85.09 177.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 85.09 177.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 85.09 177.8 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1574e720-ce3e-4819-9358-7dea7d07287a")
 		)
@@ -20055,7 +21210,7 @@
 		(at 308.61 196.85 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "cf97a97b-c21e-4c61-81ec-2eeaecd3302d")
@@ -20096,6 +21251,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 308.61 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 308.61 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 308.61 196.85 0)
 			(effects
 				(font
@@ -20162,6 +21335,33 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 110.49 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 110.49 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 110.49 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 110.49 127 0)
 			(effects
 				(font
@@ -20297,7 +21497,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22 µF ±20% 16V Ceramic Capacitor X5R 0805 (2012 Metric)"
 			(at 289.56 175.26 0)
 			(effects
 				(font
@@ -20307,6 +21507,24 @@
 			)
 		)
 		(property "Package" "805"
+			(at 289.56 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 289.56 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM21BR61C226ME44L"
 			(at 289.56 175.26 0)
 			(effects
 				(font
@@ -20637,7 +21855,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Low-Side Gate Driver IC Non-Inverting PG-SOT23-6-3"
 			(at 299.72 115.57 0)
 			(effects
 				(font
@@ -20646,27 +21864,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Infineon Technologies"
-			(at 299.72 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.45mm"
-			(at 299.72 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "SOT-23-6 Infineon Technologies"
+		(property "Package" "SOT-23-6"
 			(at 299.72 115.57 0)
 			(effects
 				(font
@@ -20686,76 +21884,6 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/1ED44175N01BXTSA1/Infineon+Technologies/view-part/?ref=eda"
-			(at 299.72 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC-7351B"
-			(at 299.72 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "1.0"
-			(at 299.72 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1ED44175N01BXTSA1/Infineon+Technologies/view-part/?ref=snap"
-			(at 299.72 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "1ED44175N01BXTSA1"
-			(at 299.72 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4572068&manufacturer=Infineon Technologies&part_name=1ED44175N01BXTSA1&search_term=None"
-			(at 299.72 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nLow-Side Gate Driver IC Non-Inverting PG-SOT23-6-3\n"
-			(at 299.72 115.57 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
 		(property "Availability" "In Stock"
 			(at 299.72 115.57 0)
 			(effects
@@ -20766,13 +21894,21 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Infineon"
+		(property "Manufacturer" "Infineon Technologies"
 			(at 299.72 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Part No" "1ED44175N01BXTSA1"
+			(at 299.72 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -20852,7 +21988,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "100A Id, 60V Vds, NexFET N-Channel Power MOSFET, 2.2mOhm Ron, 41nC Qg(typ), SON8 5x6mm"
+		(property "Description" "N-Channel 60 V 100A (Ta) 3.1W (Ta), 195W (Tc) Surface Mount 8-VSON-CLIP (5x6)"
 			(at 322.58 113.03 0)
 			(effects
 				(font
@@ -20861,7 +21997,25 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "TDSON 8"
+		(property "Package" "8-VSON-CLIP (5x6)"
+			(at 322.58 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 322.58 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "CSD18540Q5B"
 			(at 322.58 113.03 0)
 			(effects
 				(font
@@ -21005,7 +22159,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Buck Switching Regulator IC Positive Adjustable 0.8V 1 Output 3A 8-VDFN"
+			(at 111.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Monolithic Power Systems Inc."
+			(at 111.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "8-QFN (3x3)"
+			(at 111.76 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "MP9943AGQ-P"
 			(at 111.76 111.76 0)
 			(effects
 				(font
@@ -21052,7 +22233,7 @@
 		(at 311.15 196.85 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "e6925444-830d-4460-86ed-1063ded52329")
@@ -21093,6 +22274,24 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 311.15 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 311.15 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 311.15 196.85 0)
 			(effects
 				(font
@@ -21198,7 +22397,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 247.65 176.5362 0)
 			(effects
 				(font
@@ -21207,7 +22406,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 245.11 175.26 0)
 			(effects
 				(font
@@ -21225,7 +22424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 245.11 175.26 0)
 			(effects
 				(font
@@ -21234,7 +22433,25 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "805"
+			(at 245.11 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 245.11 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GCM21BR71E104KA37L"
 			(at 245.11 175.26 0)
 			(effects
 				(font
@@ -21342,7 +22559,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "0.1uf"
 			(at 105.918 133.858 0)
 			(effects
 				(font
@@ -21369,7 +22586,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
+			(at 104.14 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 104.14 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 104.14 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GCJ188R71C104MA01J"
 			(at 104.14 133.35 0)
 			(effects
 				(font
@@ -21568,7 +22812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Low-Side Gate Driver IC Non-Inverting PG-SOT23-6-3"
 			(at 229.87 147.32 0)
 			(effects
 				(font
@@ -21577,27 +22821,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "Infineon Technologies"
-			(at 229.87 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "1.45mm"
-			(at 229.87 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Package" "SOT-23-6 Infineon Technologies"
+		(property "Package" "SOT-23-6"
 			(at 229.87 147.32 0)
 			(effects
 				(font
@@ -21617,76 +22841,6 @@
 				(hide yes)
 			)
 		)
-		(property "Check_prices" "https://www.snapeda.com/parts/1ED44175N01BXTSA1/Infineon+Technologies/view-part/?ref=eda"
-			(at 229.87 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "STANDARD" "IPC-7351B"
-			(at 229.87 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTREV" "1.0"
-			(at 229.87 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "SnapEDA_Link" "https://www.snapeda.com/parts/1ED44175N01BXTSA1/Infineon+Technologies/view-part/?ref=snap"
-			(at 229.87 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MP" "1ED44175N01BXTSA1"
-			(at 229.87 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=4572068&manufacturer=Infineon Technologies&part_name=1ED44175N01BXTSA1&search_term=None"
-			(at 229.87 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "Description_1" "\nLow-Side Gate Driver IC Non-Inverting PG-SOT23-6-3\n"
-			(at 229.87 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
 		(property "Availability" "In Stock"
 			(at 229.87 147.32 0)
 			(effects
@@ -21697,13 +22851,21 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Infineon"
+		(property "Manufacturer" "Infineon Technologies"
 			(at 229.87 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Part No" "1ED44175N01BXTSA1"
+			(at 229.87 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -21819,7 +22981,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 365.76 182.8862 0)
 			(effects
 				(font
@@ -21846,7 +23008,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
 			(at 363.22 181.61 0)
 			(effects
 				(font
@@ -21856,6 +23018,24 @@
 			)
 		)
 		(property "Package" "402"
+			(at 363.22 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 363.22 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM155R61C104KA88D"
 			(at 363.22 181.61 0)
 			(effects
 				(font
@@ -21964,7 +23144,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nf"
+		(property "Value" "0.1uf"
 			(at 257.81 176.5362 0)
 			(effects
 				(font
@@ -21973,7 +23153,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 255.27 175.26 0)
 			(effects
 				(font
@@ -21991,7 +23171,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "0.1 µF ±10% 25V Ceramic Capacitor X7R 0805 (2012 Metric)"
 			(at 255.27 175.26 0)
 			(effects
 				(font
@@ -22000,7 +23180,25 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "805"
+			(at 255.27 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 255.27 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GCM21BR71E104KA37L"
 			(at 255.27 175.26 0)
 			(effects
 				(font
@@ -22210,6 +23408,33 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 110.49 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 110.49 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 110.49 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b0e731d3-29e5-48ad-91b2-9b68779321e0")
 		)
@@ -22279,7 +23504,7 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Any"
+		(property "Package" "402"
 			(at 210.82 118.11 0)
 			(effects
 				(font
@@ -22288,7 +23513,16 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Manufacturer" ""
+			(at 210.82 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
 			(at 210.82 118.11 0)
 			(effects
 				(font
@@ -22382,7 +23616,7 @@
 		(at 303.53 196.85 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "f968a991-56c3-4005-84cb-ad833136c7ea")
@@ -22431,6 +23665,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" ""
+			(at 303.53 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 303.53 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "945ab623-ec8e-45c0-9679-963883175923")
 		)
@@ -22461,7 +23713,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33u"
+		(property "Value" "22uf"
 			(at 182.118 190.754 0)
 			(effects
 				(font
@@ -22488,7 +23740,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22 µF ±20% 16V Ceramic Capacitor X5S 0603 (1608 Metric)"
+			(at 181.61 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 181.61 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 181.61 189.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM188C61C226ME01W"
 			(at 181.61 189.23 0)
 			(effects
 				(font
@@ -22530,7 +23809,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "33u"
+		(property "Value" "22uf"
 			(at 82.296 182.626 0)
 			(effects
 				(font
@@ -22557,7 +23836,34 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "22 µF ±20% 16V Ceramic Capacitor X5S 0603 (1608 Metric)"
+			(at 87.63 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 87.63 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 87.63 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GRM188C61C226ME01W"
 			(at 87.63 180.34 0)
 			(effects
 				(font
@@ -22628,6 +23934,33 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 165.1 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" ""
+			(at 165.1 196.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 165.1 196.85 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" ""
+			(at 165.1 196.85 90)
 			(effects
 				(font
 					(size 1.27 1.27)
