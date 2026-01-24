@@ -126,15 +126,17 @@
           "Price",
           "Purchase-URL",
           "STANDARD",
-          "SnapEDA_Link"
+          "SnapEDA_Link",
+          "Part No",
+          "Manufacturer"
         ],
         "fields_ordered": [
-          "__Reference",
-          "__Value",
+          "Reference",
+          "Value",
           "__Footprint",
           "__Datasheet",
-          "__Description",
-          "__${QUANTITY}",
+          "Description",
+          "${QUANTITY}",
           "__${ITEM_NUMBER}",
           "__Availability",
           "__Check_prices",
@@ -148,7 +150,9 @@
           "__Price",
           "__Purchase-URL",
           "__STANDARD",
-          "__SnapEDA_Link"
+          "__SnapEDA_Link",
+          "Part No",
+          "Manufacturer"
         ],
         "filter_string": "",
         "include_excluded_from_bom": false,
