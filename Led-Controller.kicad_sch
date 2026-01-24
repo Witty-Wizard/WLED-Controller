@@ -8030,7 +8030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "100 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 351.79 173.99 0)
 			(effects
 				(font
@@ -8048,7 +8048,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 351.79 173.99 0)
 			(effects
 				(font
@@ -8322,7 +8322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "100 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 374.65 173.99 0)
 			(effects
 				(font
@@ -8340,7 +8340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 374.65 173.99 0)
 			(effects
 				(font
@@ -8484,7 +8484,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 212.09 149.86 0)
 			(effects
 				(font
@@ -8502,7 +8502,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 212.09 149.86 0)
 			(effects
 				(font
@@ -9222,7 +9222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 280.67 85.09 0)
 			(effects
 				(font
@@ -9240,7 +9240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 280.67 85.09 0)
 			(effects
 				(font
@@ -9415,7 +9415,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "76.8 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 160.02 200.66 0)
 			(effects
 				(font
@@ -9424,7 +9424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 160.02 200.66 0)
 			(effects
 				(font
@@ -9606,7 +9606,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 245.11 113.03 0)
 			(effects
 				(font
@@ -9624,7 +9624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 245.11 113.03 90)
 			(effects
 				(font
@@ -10635,7 +10635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "100 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 386.08 173.99 0)
 			(effects
 				(font
@@ -10653,7 +10653,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 386.08 173.99 0)
 			(effects
 				(font
@@ -10884,7 +10884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "487 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 156.21 196.85 0)
 			(effects
 				(font
@@ -10893,7 +10893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 156.21 196.85 90)
 			(effects
 				(font
@@ -11232,7 +11232,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 280.67 118.11 0)
 			(effects
 				(font
@@ -11250,7 +11250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 280.67 118.11 0)
 			(effects
 				(font
@@ -11348,7 +11348,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 148.59 76.2 90)
 			(effects
 				(font
@@ -11532,7 +11532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP ALUM POLY 470UF 20% 25V TH"
+		(property "Description" "470 µF 35 V Aluminum Electrolytic Capacitors Radial, Can 2000 Hrs @ 105°C"
 			(at 125.73 74.93 0)
 			(effects
 				(font
@@ -11541,7 +11541,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Rubycon"
 			(at 125.73 74.93 0)
 			(effects
 				(font
@@ -11550,7 +11550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "to be choosen"
+		(property "Part No" "35PX470MEFC10X12.5"
 			(at 125.73 74.93 0)
 			(effects
 				(font
@@ -11946,7 +11946,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 247.65 232.41 0)
 			(effects
 				(font
@@ -11964,7 +11964,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 247.65 232.41 0)
 			(effects
 				(font
@@ -12260,7 +12260,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 252.73 113.03 0)
 			(effects
 				(font
@@ -12413,7 +12413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "100 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 148.59 68.58 0)
 			(effects
 				(font
@@ -12431,7 +12431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 148.59 68.58 0)
 			(effects
 				(font
@@ -12507,7 +12507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 314.96 80.01 0)
 			(effects
 				(font
@@ -12525,7 +12525,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 314.96 80.01 90)
 			(effects
 				(font
@@ -12773,7 +12773,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 322.58 80.01 0)
 			(effects
 				(font
@@ -12926,7 +12926,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "100 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 363.22 173.99 0)
 			(effects
 				(font
@@ -12944,7 +12944,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 363.22 173.99 0)
 			(effects
 				(font
@@ -13283,7 +13283,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 314.96 113.03 0)
 			(effects
 				(font
@@ -13301,7 +13301,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 314.96 113.03 90)
 			(effects
 				(font
@@ -14003,7 +14003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, small symbol"
+		(property "Description" "10 µH Shielded Drum Core, Wirewound Inductor 3.1 A 50mOhm Max Nonstandard"
 			(at 156.21 118.11 0)
 			(effects
 				(font
@@ -15424,7 +15424,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "7.68 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 176.53 134.62 0)
 			(effects
 				(font
@@ -15433,7 +15433,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 176.53 134.62 0)
 			(effects
 				(font
@@ -15616,7 +15616,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "100 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 397.51 173.99 0)
 			(effects
 				(font
@@ -15634,7 +15634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 397.51 173.99 0)
 			(effects
 				(font
@@ -15734,7 +15734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 252.73 78.74 0)
 			(effects
 				(font
@@ -15983,7 +15983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP ALUM POLY 470UF 20% 25V TH"
+		(property "Description" "470 µF 35 V Aluminum Electrolytic Capacitors Radial, Can 2000 Hrs @ 105°C"
 			(at 119.38 74.93 0)
 			(effects
 				(font
@@ -15992,7 +15992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Rubycon"
 			(at 119.38 74.93 0)
 			(effects
 				(font
@@ -16001,7 +16001,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "to be choosen"
+		(property "Part No" "35PX470MEFC10X12.5"
 			(at 119.38 74.93 0)
 			(effects
 				(font
@@ -16512,7 +16512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "243 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 162.56 190.5 0)
 			(effects
 				(font
@@ -16521,7 +16521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 162.56 190.5 90)
 			(effects
 				(font
@@ -16608,7 +16608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "100 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 96.52 181.61 0)
 			(effects
 				(font
@@ -16617,7 +16617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 96.52 181.61 0)
 			(effects
 				(font
@@ -16865,7 +16865,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "6 Position Header Connector Solder Cup Tin"
 			(at 223.52 214.63 0)
 			(effects
 				(font
@@ -16874,7 +16874,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Mill-Max Manufacturing Corp."
 			(at 223.52 214.63 0)
 			(effects
 				(font
@@ -16883,7 +16883,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "852-40-006-10-003000"
 			(at 223.52 214.63 0)
 			(effects
 				(font
@@ -17095,7 +17095,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "21 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 96.52 186.69 0)
 			(effects
 				(font
@@ -17104,7 +17104,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 96.52 186.69 0)
 			(effects
 				(font
@@ -17320,7 +17320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 245.11 78.74 0)
 			(effects
 				(font
@@ -17338,7 +17338,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 245.11 78.74 90)
 			(effects
 				(font
@@ -17707,7 +17707,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 210.82 83.82 0)
 			(effects
 				(font
@@ -17725,7 +17725,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 210.82 83.82 0)
 			(effects
 				(font
@@ -17866,7 +17866,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Inductor, small symbol"
+		(property "Description" "10 µH Shielded Drum Core, Wirewound Inductor 3.1 A 50mOhm Max Nonstandard"
 			(at 166.37 184.15 0)
 			(effects
 				(font
@@ -18016,7 +18016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "15 Ohms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 245.11 144.78 0)
 			(effects
 				(font
@@ -18034,7 +18034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 245.11 144.78 90)
 			(effects
 				(font
@@ -18177,7 +18177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "21 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 100.33 120.65 0)
 			(effects
 				(font
@@ -18186,7 +18186,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 100.33 120.65 0)
 			(effects
 				(font
@@ -18273,7 +18273,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "20 Ohms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 154.94 177.8 0)
 			(effects
 				(font
@@ -18282,7 +18282,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 154.94 177.8 90)
 			(effects
 				(font
@@ -18728,7 +18728,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "42.2 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 176.53 123.19 0)
 			(effects
 				(font
@@ -18737,7 +18737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 176.53 123.19 0)
 			(effects
 				(font
@@ -18824,7 +18824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "20 Ohms ±5% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 154.94 111.76 0)
 			(effects
 				(font
@@ -18833,7 +18833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 154.94 111.76 90)
 			(effects
 				(font
@@ -19546,7 +19546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 252.73 144.78 0)
 			(effects
 				(font
@@ -20494,7 +20494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "100 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 100.33 115.57 0)
 			(effects
 				(font
@@ -20503,7 +20503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 100.33 115.57 0)
 			(effects
 				(font
@@ -21157,7 +21157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "37.4 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 184.15 123.19 0)
 			(effects
 				(font
@@ -21166,7 +21166,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 184.15 123.19 0)
 			(effects
 				(font
@@ -21562,7 +21562,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "100 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 110.49 127 0)
 			(effects
 				(font
@@ -21571,7 +21571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 110.49 127 0)
 			(effects
 				(font
@@ -22234,7 +22234,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Texas Instruments"
 			(at 322.58 113.03 0)
 			(effects
 				(font
@@ -23627,7 +23627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "100 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 110.49 193.04 0)
 			(effects
 				(font
@@ -23636,7 +23636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 110.49 193.04 0)
 			(effects
 				(font
@@ -23723,7 +23723,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "10 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 210.82 118.11 0)
 			(effects
 				(font
@@ -23741,7 +23741,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 210.82 118.11 0)
 			(effects
 				(font
@@ -24160,7 +24160,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "243 kOhms ±1% 0.1W, 1/10W Chip Resistor 0603 (1608 Metric) Moisture Resistant Thick Film"
 			(at 165.1 196.85 0)
 			(effects
 				(font
@@ -24169,7 +24169,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "YAGEO"
 			(at 165.1 196.85 90)
 			(effects
 				(font
