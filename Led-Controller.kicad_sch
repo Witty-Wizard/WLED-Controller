@@ -8003,7 +8003,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100Ω"
 			(at 345.948 173.736 0)
 			(effects
 				(font
@@ -8012,7 +8012,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 351.79 173.99 0)
 			(effects
 				(font
@@ -8039,7 +8039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 351.79 173.99 0)
 			(effects
 				(font
@@ -8057,7 +8057,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-07100RL"
 			(at 351.79 173.99 0)
 			(effects
 				(font
@@ -8295,7 +8295,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100Ω"
 			(at 368.808 173.736 0)
 			(effects
 				(font
@@ -8304,7 +8304,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 374.65 173.99 0)
 			(effects
 				(font
@@ -8331,7 +8331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 374.65 173.99 0)
 			(effects
 				(font
@@ -8349,7 +8349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-07100RL"
 			(at 374.65 173.99 0)
 			(effects
 				(font
@@ -8466,7 +8466,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 212.09 149.86 0)
 			(effects
 				(font
@@ -8493,7 +8493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 212.09 149.86 0)
 			(effects
 				(font
@@ -8511,7 +8511,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0710KL"
 			(at 212.09 149.86 0)
 			(effects
 				(font
@@ -8628,7 +8628,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 397.51 181.61 0)
 			(effects
 				(font
@@ -8646,7 +8646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 397.51 181.61 0)
 			(effects
 				(font
@@ -8655,7 +8655,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 397.51 181.61 0)
 			(effects
 				(font
@@ -8673,7 +8673,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "GRM155R61C104KA88D"
+		(property "Part No" "GCJ188R71C104MA01J"
 			(at 397.51 181.61 0)
 			(effects
 				(font
@@ -9011,7 +9011,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 280.67 123.19 0)
 			(effects
 				(font
@@ -9029,7 +9029,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 280.67 123.19 0)
 			(effects
 				(font
@@ -9038,7 +9038,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 280.67 123.19 0)
 			(effects
 				(font
@@ -9056,7 +9056,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "GRM155R61C104KA88D"
+		(property "Part No" "GCJ188R71C104MA01J"
 			(at 280.67 123.19 0)
 			(effects
 				(font
@@ -9108,7 +9108,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 210.82 123.19 0)
 			(effects
 				(font
@@ -9126,7 +9126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 210.82 123.19 0)
 			(effects
 				(font
@@ -9135,7 +9135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 210.82 123.19 0)
 			(effects
 				(font
@@ -9153,7 +9153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "GRM155R61C104KA88D"
+		(property "Part No" "GCJ188R71C104MA01J"
 			(at 210.82 123.19 0)
 			(effects
 				(font
@@ -9204,7 +9204,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 280.67 85.09 0)
 			(effects
 				(font
@@ -9231,7 +9231,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 280.67 85.09 0)
 			(effects
 				(font
@@ -9249,7 +9249,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0710KL"
 			(at 280.67 85.09 0)
 			(effects
 				(font
@@ -9442,7 +9442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0776K8L"
 			(at 160.02 200.66 0)
 			(effects
 				(font
@@ -9494,7 +9494,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 351.79 181.61 0)
 			(effects
 				(font
@@ -9512,7 +9512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 351.79 181.61 0)
 			(effects
 				(font
@@ -9521,7 +9521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 351.79 181.61 0)
 			(effects
 				(font
@@ -9539,7 +9539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "GRM155R61C104KA88D"
+		(property "Part No" "GCJ188R71C104MA01J"
 			(at 351.79 181.61 0)
 			(effects
 				(font
@@ -9588,7 +9588,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 245.11 113.03 0)
 			(effects
 				(font
@@ -9615,7 +9615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 245.11 113.03 0)
 			(effects
 				(font
@@ -9633,7 +9633,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0715RL"
 			(at 245.11 113.03 90)
 			(effects
 				(font
@@ -9880,6 +9880,102 @@
 			(project "Led-Controller"
 				(path "/222b9972-7c70-4368-986f-3bb219717620"
 					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 228.6 231.14 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "308e604f-c4ef-4ec5-bf62-7029f2998d8d")
+		(property "Reference" "C31"
+			(at 229.362 229.616 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uf"
+			(at 229.362 232.664 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 228.6 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 228.6 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
+			(at 228.6 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Package" "603"
+			(at 228.6 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Murata Electronics"
+			(at 228.6 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Part No" "GCJ188R71C104MA01J"
+			(at 228.6 231.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d737c957-5851-4f6b-8b85-8d5b16641d04")
+		)
+		(pin "1"
+			(uuid "64754abc-2ed9-4a8e-8216-9b0f170440a2")
+		)
+		(instances
+			(project "Led-Controller"
+				(path "/222b9972-7c70-4368-986f-3bb219717620"
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -10429,6 +10525,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 228.6 233.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "391a3bf9-f331-428c-bebb-540dc86e8cb6")
+		(property "Reference" "#PWR091"
+			(at 228.6 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 228.6 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 228.6 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 228.6 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 228.6 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9617504b-81b2-456b-b1eb-1f8ecc0c3ccf")
+		)
+		(instances
+			(project "Led-Controller"
+				(path "/222b9972-7c70-4368-986f-3bb219717620"
+					(reference "#PWR091")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 386.08 173.99 180)
 		(unit 1)
@@ -10446,7 +10608,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100Ω"
 			(at 380.238 173.736 0)
 			(effects
 				(font
@@ -10455,7 +10617,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 386.08 173.99 0)
 			(effects
 				(font
@@ -10482,7 +10644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 386.08 173.99 0)
 			(effects
 				(font
@@ -10500,7 +10662,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-07100RL"
 			(at 386.08 173.99 0)
 			(effects
 				(font
@@ -10749,7 +10911,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-07487RL"
 			(at 156.21 196.85 90)
 			(effects
 				(font
@@ -10956,7 +11118,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 236.22 231.14 0)
 			(effects
 				(font
@@ -10974,7 +11136,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "10 µF ±20% 6.3V Ceramic Capacitor X5R 0402 (1005 Metric)"
+		(property "Description" "10 µF ±10% 6.3V Ceramic Capacitor X5R 0603 (1608 Metric)"
 			(at 236.22 231.14 0)
 			(effects
 				(font
@@ -10983,7 +11145,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 236.22 231.14 0)
 			(effects
 				(font
@@ -11001,7 +11163,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "GRM155R60J106ME05J"
+		(property "Part No" "GRM188R60J106KE47D"
 			(at 236.22 231.14 0)
 			(effects
 				(font
@@ -11052,7 +11214,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 280.67 118.11 0)
 			(effects
 				(font
@@ -11079,7 +11241,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 280.67 118.11 0)
 			(effects
 				(font
@@ -11097,7 +11259,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0710KL"
 			(at 280.67 118.11 0)
 			(effects
 				(font
@@ -11370,7 +11532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" "CAP ALUM POLY 470UF 20% 25V TH"
 			(at 125.73 74.93 0)
 			(effects
 				(font
@@ -11388,7 +11550,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "to be choosen"
 			(at 125.73 74.93 0)
 			(effects
 				(font
@@ -11440,7 +11602,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 247.65 237.49 0)
 			(effects
 				(font
@@ -11458,7 +11620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 247.65 237.49 0)
 			(effects
 				(font
@@ -11467,7 +11629,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 247.65 237.49 0)
 			(effects
 				(font
@@ -11485,7 +11647,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "GRM155R61C104KA88D"
+		(property "Part No" "GCJ188R71C104MA01J"
 			(at 247.65 237.49 0)
 			(effects
 				(font
@@ -11766,7 +11928,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 247.65 232.41 0)
 			(effects
 				(font
@@ -11793,7 +11955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 247.65 232.41 0)
 			(effects
 				(font
@@ -11811,7 +11973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0710KL"
 			(at 247.65 232.41 0)
 			(effects
 				(font
@@ -12233,7 +12395,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 148.59 68.58 0)
 			(effects
 				(font
@@ -12260,7 +12422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 148.59 68.58 0)
 			(effects
 				(font
@@ -12278,7 +12440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-07100RL"
 			(at 148.59 68.58 0)
 			(effects
 				(font
@@ -12327,7 +12489,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 314.96 80.01 0)
 			(effects
 				(font
@@ -12354,7 +12516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 314.96 80.01 0)
 			(effects
 				(font
@@ -12372,7 +12534,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0715RL"
 			(at 314.96 80.01 90)
 			(effects
 				(font
@@ -12737,7 +12899,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100Ω"
 			(at 357.378 173.736 0)
 			(effects
 				(font
@@ -12746,7 +12908,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 363.22 173.99 0)
 			(effects
 				(font
@@ -12773,7 +12935,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 363.22 173.99 0)
 			(effects
 				(font
@@ -12791,7 +12953,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-07100RL"
 			(at 363.22 173.99 0)
 			(effects
 				(font
@@ -13103,7 +13265,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 314.96 113.03 0)
 			(effects
 				(font
@@ -13130,7 +13292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 314.96 113.03 0)
 			(effects
 				(font
@@ -13148,7 +13310,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0715RL"
 			(at 314.96 113.03 90)
 			(effects
 				(font
@@ -13719,7 +13881,7 @@
 		(at 171.45 184.15 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "68680d34-9426-49a2-badf-c67ab0186865")
@@ -13850,7 +14012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Bourns Inc."
 			(at 156.21 118.11 90)
 			(effects
 				(font
@@ -13859,7 +14021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "SRN8040-100M"
 			(at 156.21 118.11 90)
 			(effects
 				(font
@@ -14074,7 +14236,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 386.08 181.61 0)
 			(effects
 				(font
@@ -14092,7 +14254,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 386.08 181.61 0)
 			(effects
 				(font
@@ -14101,7 +14263,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 386.08 181.61 0)
 			(effects
 				(font
@@ -14119,7 +14281,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "GRM155R61C104KA88D"
+		(property "Part No" "GCJ188R71C104MA01J"
 			(at 386.08 181.61 0)
 			(effects
 				(font
@@ -14852,7 +15014,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 85.09 111.76 90)
 			(effects
 				(font
@@ -14870,7 +15032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "BLM18RK221SN1D"
 			(at 85.09 111.76 90)
 			(effects
 				(font
@@ -15289,7 +15451,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-077K68L"
 			(at 176.53 134.62 0)
 			(effects
 				(font
@@ -15427,7 +15589,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100"
+		(property "Value" "100Ω"
 			(at 391.668 173.736 0)
 			(effects
 				(font
@@ -15436,7 +15598,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 397.51 173.99 0)
 			(effects
 				(font
@@ -15463,7 +15625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 397.51 173.99 0)
 			(effects
 				(font
@@ -15481,7 +15643,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-07100RL"
 			(at 397.51 173.99 0)
 			(effects
 				(font
@@ -15821,7 +15983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Polarized capacitor"
+		(property "Description" "CAP ALUM POLY 470UF 20% 25V TH"
 			(at 119.38 74.93 0)
 			(effects
 				(font
@@ -15839,7 +16001,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "to be choosen"
 			(at 119.38 74.93 0)
 			(effects
 				(font
@@ -16377,7 +16539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-07243KL"
 			(at 162.56 190.5 90)
 			(effects
 				(font
@@ -16473,7 +16635,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-07100KL"
 			(at 96.52 181.61 0)
 			(effects
 				(font
@@ -16960,7 +17122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0721KL"
 			(at 96.52 186.69 0)
 			(effects
 				(font
@@ -17140,7 +17302,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 245.11 78.74 0)
 			(effects
 				(font
@@ -17167,7 +17329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 245.11 78.74 0)
 			(effects
 				(font
@@ -17185,7 +17347,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0715RL"
 			(at 245.11 78.74 90)
 			(effects
 				(font
@@ -17237,7 +17399,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 210.82 88.9 0)
 			(effects
 				(font
@@ -17255,7 +17417,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 210.82 88.9 0)
 			(effects
 				(font
@@ -17264,7 +17426,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 210.82 88.9 0)
 			(effects
 				(font
@@ -17282,7 +17444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "GRM155R61C104KA88D"
+		(property "Part No" "GCJ188R71C104MA01J"
 			(at 210.82 88.9 0)
 			(effects
 				(font
@@ -17334,7 +17496,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 212.09 154.94 0)
 			(effects
 				(font
@@ -17352,7 +17514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 212.09 154.94 0)
 			(effects
 				(font
@@ -17361,7 +17523,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 212.09 154.94 0)
 			(effects
 				(font
@@ -17379,7 +17541,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "GRM155R61C104KA88D"
+		(property "Part No" "GCJ188R71C104MA01J"
 			(at 212.09 154.94 0)
 			(effects
 				(font
@@ -17431,7 +17593,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 374.65 181.61 0)
 			(effects
 				(font
@@ -17449,7 +17611,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 374.65 181.61 0)
 			(effects
 				(font
@@ -17458,7 +17620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 374.65 181.61 0)
 			(effects
 				(font
@@ -17476,7 +17638,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "GRM155R61C104KA88D"
+		(property "Part No" "GCJ188R71C104MA01J"
 			(at 374.65 181.61 0)
 			(effects
 				(font
@@ -17527,7 +17689,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 210.82 83.82 0)
 			(effects
 				(font
@@ -17554,7 +17716,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 210.82 83.82 0)
 			(effects
 				(font
@@ -17572,7 +17734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0710KL"
 			(at 210.82 83.82 0)
 			(effects
 				(font
@@ -17713,7 +17875,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Bourns Inc."
 			(at 166.37 184.15 90)
 			(effects
 				(font
@@ -17722,7 +17884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "SRN8040-100M"
 			(at 166.37 184.15 90)
 			(effects
 				(font
@@ -17836,7 +17998,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 245.11 144.78 0)
 			(effects
 				(font
@@ -17863,7 +18025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 245.11 144.78 0)
 			(effects
 				(font
@@ -17881,7 +18043,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0715RL"
 			(at 245.11 144.78 90)
 			(effects
 				(font
@@ -18042,7 +18204,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0721KL"
 			(at 100.33 120.65 0)
 			(effects
 				(font
@@ -18138,7 +18300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603JR-0720RL"
 			(at 154.94 177.8 90)
 			(effects
 				(font
@@ -18318,6 +18480,72 @@
 			(project "Led-Controller"
 				(path "/222b9972-7c70-4368-986f-3bb219717620"
 					(reference "#PWR057")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 228.6 228.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8ae6c26-740c-46cd-aff2-c8912dc22206")
+		(property "Reference" "#PWR092"
+			(at 228.6 232.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 228.6 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 228.6 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 228.6 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 228.6 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7a8cf42c-4d1c-4476-8762-47a895701bf5")
+		)
+		(instances
+			(project "Led-Controller"
+				(path "/222b9972-7c70-4368-986f-3bb219717620"
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -18527,7 +18755,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0742K2L"
 			(at 176.53 123.19 0)
 			(effects
 				(font
@@ -18623,7 +18851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603JR-0720RL"
 			(at 154.94 111.76 90)
 			(effects
 				(font
@@ -19453,7 +19681,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 280.67 90.17 0)
 			(effects
 				(font
@@ -19471,7 +19699,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 280.67 90.17 0)
 			(effects
 				(font
@@ -19480,7 +19708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 280.67 90.17 0)
 			(effects
 				(font
@@ -19498,7 +19726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "GRM155R61C104KA88D"
+		(property "Part No" "GCJ188R71C104MA01J"
 			(at 280.67 90.17 0)
 			(effects
 				(font
@@ -20142,7 +20370,7 @@
 		(at 172.72 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c4139c19-e3bf-497d-8b17-c2fd00dc9745")
@@ -20293,7 +20521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-07100KL"
 			(at 100.33 115.57 0)
 			(effects
 				(font
@@ -20956,7 +21184,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0737K4L"
 			(at 184.15 123.19 0)
 			(effects
 				(font
@@ -21163,7 +21391,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "Murata Electronics"
 			(at 85.09 177.8 90)
 			(effects
 				(font
@@ -21181,7 +21409,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "BLM18RK221SN1D"
 			(at 85.09 177.8 90)
 			(effects
 				(font
@@ -21361,7 +21589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-07100KL"
 			(at 110.49 127 0)
 			(effects
 				(font
@@ -22990,7 +23218,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 363.22 181.61 0)
 			(effects
 				(font
@@ -23008,7 +23236,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "0.1 µF ±10% 16V Ceramic Capacitor X5R 0402 (1005 Metric)"
+		(property "Description" "0.1 µF ±20% 16V Ceramic Capacitor X7R 0603 (1608 Metric)"
 			(at 363.22 181.61 0)
 			(effects
 				(font
@@ -23017,7 +23245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 363.22 181.61 0)
 			(effects
 				(font
@@ -23035,7 +23263,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" "GRM155R61C104KA88D"
+		(property "Part No" "GCJ188R71C104MA01J"
 			(at 363.22 181.61 0)
 			(effects
 				(font
@@ -23426,7 +23654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-07100KL"
 			(at 110.49 193.04 0)
 			(effects
 				(font
@@ -23477,7 +23705,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 210.82 118.11 0)
 			(effects
 				(font
@@ -23504,7 +23732,7 @@
 				(hide yes)
 			)
 		)
-		(property "Package" "402"
+		(property "Package" "603"
 			(at 210.82 118.11 0)
 			(effects
 				(font
@@ -23522,7 +23750,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-0710KL"
 			(at 210.82 118.11 0)
 			(effects
 				(font
@@ -23959,7 +24187,7 @@
 				(hide yes)
 			)
 		)
-		(property "Part No" ""
+		(property "Part No" "RC0603FR-07243KL"
 			(at 165.1 196.85 90)
 			(effects
 				(font
