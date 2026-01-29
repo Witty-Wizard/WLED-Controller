@@ -166,6 +166,71 @@
         "string_delimiter": "\""
       },
       "type": "sch_export_bom"
+    },
+    {
+      "description": "",
+      "id": "9a907ed6-13e1-45ec-b8d7-d87b7221fd3f",
+      "settings": {
+        "description": "",
+        "disable_aperture_macros": false,
+        "drawing_sheet": "",
+        "include_netlist_attributes": true,
+        "layers": [
+          "F.Cu",
+          "In1.Cu",
+          "In2.Cu",
+          "In3.Cu",
+          "In4.Cu",
+          "In5.Cu",
+          "In6.Cu",
+          "In7.Cu",
+          "In8.Cu",
+          "In9.Cu",
+          "In10.Cu",
+          "In11.Cu",
+          "In12.Cu",
+          "In13.Cu",
+          "In14.Cu",
+          "In15.Cu",
+          "In16.Cu",
+          "In17.Cu",
+          "In18.Cu",
+          "In19.Cu",
+          "In20.Cu",
+          "In21.Cu",
+          "In22.Cu",
+          "In23.Cu",
+          "In24.Cu",
+          "In25.Cu",
+          "In26.Cu",
+          "In27.Cu",
+          "In28.Cu",
+          "In29.Cu",
+          "In30.Cu",
+          "B.Cu",
+          "F.SilkS",
+          "B.SilkS",
+          "F.Mask",
+          "B.Mask",
+          "Edge.Cuts",
+          "Margin"
+        ],
+        "layers_include_on_all": [],
+        "layers_include_on_all_set": false,
+        "layers_to_include_on_all_layers": [],
+        "output_filename": "",
+        "plot_drawing_sheet": false,
+        "plot_footprint_values": true,
+        "plot_invisible_text": false,
+        "plot_pad_numbers": false,
+        "plot_ref_des": true,
+        "precision": 5,
+        "subtract_solder_mask_from_silk": false,
+        "use_drill_origin": false,
+        "use_protel_file_extension": true,
+        "use_x2_format": true
+      },
+      "type": "pcb_export_gerbers"
     }
   ],
   "meta": {
@@ -175,11 +240,27 @@
     {
       "description": "",
       "id": "c1cefeee-39f0-4c65-87a5-df794f7b0f41",
-      "only": [],
+      "only": [
+        "b746eb41-225d-402a-b316-9d208dd60988",
+        "08478ad7-0e14-4817-97c4-9bae4356dd9e",
+        "92dec657-a73e-4a58-b556-a531078cfbcc"
+      ],
       "settings": {
         "output_path": "C:\\Users\\HP\\Documents\\KiCad\\WLED-Controller\\files\\"
       },
       "type": "folder"
+    },
+    {
+      "description": "",
+      "id": "e22a2e1c-0e0e-4e42-b097-0f09a7ec1c07",
+      "only": [
+        "9a907ed6-13e1-45ec-b8d7-d87b7221fd3f"
+      ],
+      "settings": {
+        "format": "zip",
+        "output_path": "files\\wled controller.zip"
+      },
+      "type": "archive"
     }
   ]
 }
