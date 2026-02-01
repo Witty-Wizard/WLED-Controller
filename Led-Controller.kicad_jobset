@@ -225,12 +225,32 @@
         "plot_pad_numbers": false,
         "plot_ref_des": true,
         "precision": 5,
-        "subtract_solder_mask_from_silk": false,
+        "subtract_solder_mask_from_silk": true,
         "use_drill_origin": false,
         "use_protel_file_extension": true,
         "use_x2_format": true
       },
       "type": "pcb_export_gerbers"
+    },
+    {
+      "description": "",
+      "id": "9801429f-7c3d-4cf3-afef-e162a262a7bb",
+      "settings": {
+        "description": "",
+        "drill_origin": "abs",
+        "excellon.combine_pth_npth": true,
+        "excellon.minimal_header": false,
+        "excellon.mirror_y": false,
+        "excellon.oval_drill_route": false,
+        "format": "gerber",
+        "generate_map": false,
+        "gerber_precision": 5,
+        "map_format": "postscript",
+        "output_dir": "",
+        "units": "mm",
+        "zero_format": "decimal"
+      },
+      "type": "pcb_export_drill"
     }
   ],
   "meta": {
@@ -254,7 +274,8 @@
       "description": "",
       "id": "e22a2e1c-0e0e-4e42-b097-0f09a7ec1c07",
       "only": [
-        "9a907ed6-13e1-45ec-b8d7-d87b7221fd3f"
+        "9a907ed6-13e1-45ec-b8d7-d87b7221fd3f",
+        "9801429f-7c3d-4cf3-afef-e162a262a7bb"
       ],
       "settings": {
         "format": "zip",
