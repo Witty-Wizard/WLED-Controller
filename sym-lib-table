@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "1ED44175N01BXTSA1")(type "KiCad")(uri "${KIPRJMOD}/1ED44175N01BXTSA1/1ED44175N01BXTSA1.kicad_sym")(options "")(descr ""))
   (lib (name "MP9943A")(type "KiCad")(uri "${KIPRJMOD}/MP9943.kicad_sym")(options "")(descr ""))
+  (lib (name "ESP32-C3FH4")(type "KiCad")(uri "${KIPRJMOD}/ESP32-C3FH4/ESP32-C3FH4.kicad_sym")(options "")(descr ""))
 )
