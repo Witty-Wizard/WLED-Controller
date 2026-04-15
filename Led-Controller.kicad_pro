@@ -533,7 +533,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../WLED-CONTROLLER",
       "pos_files": "",
       "specctra_dsn": "",
       "step": ".step",
@@ -698,7 +698,7 @@
         "uuid": "222b9972-7c70-4368-986f-3bb219717620"
       }
     ],
-    "used_designators": "R32",
+    "used_designators": "R32,H3-4",
     "variants": []
   },
   "sheets": [
